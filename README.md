@@ -21,9 +21,13 @@ I'm a passionate software developer who learns by building. I enjoy exploring ne
 ---
 
 ## 📚 Currently Learning
-- **Python** (focusing on automation)  
-- Backend services with **Django** and **Flask**  
-- Microservices architecture with **NestJS**
+- Learning **JWT** implementation in Python
+- Currently learning **C**
+  - Pointers, memory management, and pointer arithmetic  
+  - Structs, unions, and enums  
+  - File handling and command-line arguments  
+  - Bitwise operations and embedded-style programming  
+  - Understanding how hardware interacts with software via low-level programming
 
 ---
 
@@ -39,6 +43,9 @@ I maintain a curated list of valuable and recently updated projects I've starred
 <!-- Languages -->
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=fff)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=fff)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=fff)
+
 
 <!-- Frontend -->
 ![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react)
@@ -50,8 +57,10 @@ I maintain a curated list of valuable and recently updated projects I've starred
 <!-- Backend & Tools -->
 ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code)
+
 
 <!-- Testing & Docs -->
 ![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat&logo=jest&logoColor=white)
