@@ -10,7 +10,7 @@ I'm a passionate software developer who learns by building. I enjoy exploring ne
 
 ---
 
-## 🚀 What I’m Learning & Using
+## 🚀 What I’m Currently Using
 - Full-stack development with **NestJS**, **Next.js**, and **React**  
 - Backend APIs using **Node.js**, **Express**, **Sequelize**, and **Mongoose**  
 - Frontend with **Tailwind CSS**, **Framer Motion**, and **Bootstrap**  
