@@ -22,11 +22,12 @@ I'm a passionate software developer who learns by building. I enjoy exploring ne
 
 ## 📚 Currently Learning
 - Learning **JWT** implementation in Python
-- Currently learning **C**
-  - Pointers, memory management, and pointer arithmetic  
-  - Structs, unions, and enums  
+- Currently learning **C++**
+  - Structs, classes, and enums  
   - File handling and command-line arguments  
   - Bitwise operations and embedded-style programming  
+  - Object-oriented programming (OOP) concepts: encapsulation, inheritance, polymorphism  
+  - Standard Template Library (STL) basics: vectors, strings, maps, algorithms  
   - Understanding how hardware interacts with software via low-level programming
 
 ---
