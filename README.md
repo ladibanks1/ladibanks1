@@ -46,6 +46,7 @@ I maintain a curated list of valuable and recently updated projects I've starred
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=fff)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=fff)
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=fff)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=fff)
 
 
 <!-- Frontend -->
