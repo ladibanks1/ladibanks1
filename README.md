@@ -74,8 +74,8 @@ Check out my curated list of recently updated and valuable projects I’ve starr
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats-nine-cyan-52.vercel.app/api?username=ladibanks1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="45%" />
-  <img src="https://github-readme-stats-nine-cyan-52.vercel.app/api/top-langs/?username=ladibanks1&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="45%" />
+  <img src="https://github-readme-stats-nine-cyan-52.vercel.app/api?username=ladibanks1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&v=2" alt="GitHub Stats" width="45%" />
+  <img src="https://github-readme-stats-nine-cyan-52.vercel.app/api/top-langs/?username=ladibanks1&layout=compact&theme=tokyonight&hide_border=true&v=2" alt="Top Languages" width="45%" />
 </p>
 
 <p align="center">
